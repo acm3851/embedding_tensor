@@ -1,5 +1,5 @@
-# Embedding Tensor
-This code contains a number of functions that are useful in determining equivalence of tensors.
+# Embedding Tensor (Beta)
+This code contains a number of functions that are useful in determining equivalence of tensors. This code is in beta.
 
 ### generate_init_tensor(num_polygons)
 generates the tensor corresponding to 6^num_polygons.
