@@ -100,25 +100,38 @@ format consists of information sections separated by a newline
 1. lists of vertices connected by an edge
 
 0 5
+
 0 24
+
 0 39
+
 1 4
+
 1 10
+
 1 11
+
 ...
 
 2. Atomic locations. Atom type, then X, Y, Z.
 
 C -0.320517 -0.460517 0.0
+
 C -0.246379 -0.086379 0.0
+
 C 0.179483 -0.460517 0.0
+
 C 0.253621 -0.086379 0.0
+
 ...
+
 3. Unit cell vectors along with connectivity. (As in, do they connect to the opposite side?)
 
 
 13.71663521798131 7.731664348560368 0.0 True
+
 7.731664348560369 13.716635217981315 0.0 True
+
 0.0 0.0 1.0 False
 
 4. Wallpaper Symmetry
